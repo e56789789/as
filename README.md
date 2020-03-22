@@ -1,7 +1,7 @@
 # as
 
 範例
-https://kid421.github.io/Web_HC_ZL_GoToElement/
+https://e56789789.github.io/as/index.html
 
 CDN
 jQuery CDN
@@ -9,7 +9,7 @@ jQuery CDN
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 go to element CDN
 
-<script src="https://kid421.github.io/Web_HC_ZL_GoToElement/goToElement.js"></script>
+<script src="https://e56789789.github.io/as/go.js"></script>
 屬性
 
 data-goto-target="#指定元素的 ID"
